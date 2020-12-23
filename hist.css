@@ -1,0 +1,28 @@
+nav{
+position: relative;
+bottom:2rem;
+max-width:25%;
+display:inline-block
+}
+nav img{
+max-width:100%
+}
+.wrdcld{
+margin:0.8rem 0 0.5rem 2rem;
+max-width:25%
+}
+
+table{
+text-align:left;
+margin:1rem;
+border-collapse:collapse
+}
+th{
+font-weight:normal;
+padding-left:0.5rem
+}
+td{
+max-width:20%;
+border:0.1rem solid gray;
+padding:0 0.2rem 0 0.4rem
+}
